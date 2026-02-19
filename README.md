@@ -11,6 +11,21 @@ El alumno debe realizar su propia clasificación de especies o de usos de suelo 
 
 En este ejercicio he optado por utilizar un notebook porque es más visual para crear gráficos y mapas que un script de Python e incluso la interfaz de la consola de GEE.
 
+El código de las clasificaciones y los mapas que genera están en estos notebooks:
+
+- [03.1_supervisada.ipynb](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/03.1_supervisada.ipynb)
+  - [Mapa Sentinel-2](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_sentinel2.html)
+  - [Mapa Sentinel-1](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_sentinel1.html)
+  - [Mapa índices](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_indices.html)
+  - [Mapa clasificación](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_clasificacion.html)
+- [03.1_supervisada_ajustada.ipynb](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/03.1_supervisada_ajustada.ipynb)
+  - [Mapa Sentinel-2](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_sentinel2.html)
+  - [Mapa Sentinel-1](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_sentinel1.html)
+  - [Mapa índices](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_indices.html)
+  - [Mapa clasificación](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_indices.html)
+
+Los mapas que generan 
+
 Los polígonos de etiquetado están en el geopackage entradas/infoVectorial.gpkg.
 
 ## Resultado primera clasificación
