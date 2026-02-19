@@ -13,8 +13,7 @@ En este ejercicio he optado por utilizar un notebook porque es más visual para 
 
 El código de las clasificaciones y los mapas que genera están en estos notebooks:
 
-- [03.1_supervisada.ipynb](https://colab.research.google.com/github/geoforest_asignatura_6.3_clasificacion_supervisada/03.1_supervisada.ipynb)
-- colab.research.google.com/github
+- [03.1_supervisada.ipynb](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/03.1_supervisada.ipynb)
   - [Mapa Sentinel-2](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_sentinel2.html)
   - [Mapa Sentinel-1](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_sentinel1.html)
   - [Mapa índices](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_indices.html)
