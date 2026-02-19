@@ -15,14 +15,14 @@ El código de las clasificaciones y los mapas que genera están en estos noteboo
 
 - [03.1_supervisada.ipynb](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/03.1_supervisada.ipynb)
   - [Mapa Sentinel-2](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_sentinel2.html)
-  - [Mapa Sentinel-1](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_sentinel1.html)
-  - [Mapa índices](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_indices.html)
-  - [Mapa clasificación](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada/mapa_clasificacion.html)
-- [03.1_supervisada_ajustada.ipynb](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/03.1_supervisada_ajustada.ipynb)
-  - [Mapa Sentinel-2](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_sentinel2.html)
-  - [Mapa Sentinel-1](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_sentinel1.html)
-  - [Mapa índices](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_indices.html)
-  - [Mapa clasificación](https://github.com/racabar/geoforest_asignatura_6.3_clasificacion_supervisada/blob/master/salidas/mapas_html_supervisada_ajustada/mapa_indices.html)
+  - [Mapa Sentinel-1](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_sentinel1.html)
+  - [Mapa índices](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_indices.html)
+  - [Mapa clasificación](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada/mapa_clasificacion.html)
+- [03.1_supervisada_ajustada.ipynb](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/03.1_supervisada_ajustada.ipynb)
+  - [Mapa Sentinel-2](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada_ajustada/mapa_sentinel2.html)
+  - [Mapa Sentinel-1](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada_ajustada/mapa_sentinel1.html)
+  - [Mapa índices](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada_ajustada/mapa_indices.html)
+  - [Mapa clasificación](https://racabar.github.io/geoforest_asignatura_6.3_clasificacion_supervisada/salidas/mapas_html_supervisada_ajustada/mapa_indices.html)
 
 Los mapas que generan 
 
